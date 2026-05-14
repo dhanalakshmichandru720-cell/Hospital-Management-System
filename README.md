@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1512" height="816" alt="Screenshot 2026-05-15 011313" src="https://github.com/user-attachments/assets/0fc6f638-d85d-4213-854a-fd7f44226296" />
 
 
 
@@ -61,6 +62,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1142" height="794" alt="Screenshot 2026-05-15 011328" src="https://github.com/user-attachments/assets/f8f341a4-eff2-4a58-b887-f1fb154c149d" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1077" height="716" alt="Screenshot 2026-05-15 011344" src="https://github.com/user-attachments/assets/c57806fb-b485-461f-938e-5dadbe333d1a" />
 
 
 # PACKAGE DIAGRAM:
@@ -99,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![Uploading Screenshot 2026-05-15 011359.png…]()
 
 
 
@@ -107,6 +111,8 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+<img width="1455" height="841" alt="Screenshot 2026-05-15 011424" src="https://github.com/user-attachments/assets/e69720fa-b224-4fa2-ac7a-8c1895a8daf8" />
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
