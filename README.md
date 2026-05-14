@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
+# Reg No:  212225230050
+# Name:    DHANALAKSHMI C
 # Date:
 
 
@@ -85,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/066fc6de-99c0-4765-92a0-1c0d863ea67e" />
 
 
 
@@ -102,7 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-![Uploading Screenshot 2026-05-15 011359.png…]()
+<img width="1023" height="905" alt="Screenshot 2026-05-15 011359" src="https://github.com/user-attachments/assets/67cfaeb3-5ca5-464e-ba98-91a6f6cd627a" />
 
 
 
